@@ -1,0 +1,97 @@
+Column,category_name,Standardized_Value
+Lead Origin,API,-1.108763318511271
+Lead Origin,Landing Page Submission,0.4695717705419017
+Lead Origin,Lead Add Form,2.0479068595950745
+Lead Origin,Lead Import,3.626241948648247
+Lead Origin,Quick Add Form,5.204577037701419
+Lead Source,Olark Chat,0.5143151722647381
+Lead Source,Organic Search,0.8221446962786115
+Lead Source,Direct Traffic,-1.0248324478046291
+Lead Source,Google,-0.4091733997768824
+Lead Source,Referral Sites,2.361292316347979
+Lead Source,Welingak Website,3.2847808883895997
+Lead Source,Reference,2.0534627923341056
+Lead Source,google,4.20826946043122
+Lead Source,Facebook,-0.7170029237907558
+Lead Source,Other Sources,1.129974220292485
+Lead Source,blog,3.900439936417346
+Lead Source,Pay per Click Ads,1.4378037443063585
+Lead Source,bing,3.592610412403473
+Lead Source,Social Media,2.669121840361852
+Lead Source,WeLearn,2.9769513643757257
+Lead Source,Click2call,-1.3326619718185029
+Lead Source,Live Chat,-0.1013438757630088
+Lead Source,welearnblog_Home,4.823928508458967
+Lead Source,youtubechannel,5.13175803247284
+Lead Source,testone,4.516098984445093
+Lead Source,Press_Release,1.745633268320232
+Lead Source,NC_EDM,0.2064856482508646
+Last Activity,Page Visited on Website,0.6793237034196414
+Last Activity,Email Opened,-0.7816781631947162
+Last Activity,Unreachable,1.40982463672682
+Last Activity,Converted to Lead,-1.755679407604288
+Last Activity,Olark Chat Conversation,0.4358233923172485
+Last Activity,Email Bounced,-1.5121790965018949
+Last Activity,Email Link Clicked,-1.268678785399502
+Last Activity,Form Submitted on Website,-0.2946775409899302
+Last Activity,Unsubscribed,1.6533249478292131
+Last Activity,Had a Phone Conversation,-0.0511772298875373
+Last Activity,View in browser link Clicked,1.896825258931606
+Last Activity,Modified,0.1923230812148555
+Last Activity,Approached upfront,-1.9991797187066809
+Last Activity,SMS Sent,1.1663243256244271
+Last Activity,Visited Booth in Tradeshow,2.140325570033999
+Last Activity,Resubscribed to emails,0.9228240145220344
+Last Activity,Email Received,-0.5381778520923232
+Last Activity,Email Marked Spam,-1.025178474297109
+Specialization,Finance Management,-0.822062233856307
+Specialization,Business Administration,-1.4768020661312418
+Specialization,Media and Advertising,0.7056640414518741
+Specialization,Not Specified,0.9239106522101858
+Specialization,Supply Chain Management,2.015143706001744
+Specialization,IT Projects Management,0.0509242091769393
+Specialization,Travel and Tourism,2.2333903167600555
+Specialization,Human Resource Management,-0.1673224015813722
+Specialization,Marketing Management,0.4874174306935626
+Specialization,"Banking, Investment And Insurance",-1.6950486768895534
+Specialization,International Business,0.269170819935251
+Specialization,E-COMMERCE,-1.0403088446146185
+Specialization,Operations Management,1.1421572629684973
+Specialization,Retail Management,1.360403873726809
+Specialization,Services Excellence,1.7968970952434322
+Specialization,Hospitality Management,-0.3855690123396837
+Specialization,Rural and Agribusiness,1.5786504844851206
+Specialization,Healthcare Management,-0.6038156230979954
+Specialization,E-Business,-1.25855545537293
+What is your current occupation,Unemployed,0.5376943916253019
+What is your current occupation,Student,-0.460356266996191
+What is your current occupation,Other,-1.4584069256176837
+What is your current occupation,Working Professional,1.5357450502467946
+What is your current occupation,Businessman,-3.454508242860669
+What is your current occupation,Housewife,-2.4564575842391765
+Tags,Interested in other courses,-0.9710650448691518
+Tags,Ringing,0.0266525942187811
+Tags,Will revert after reading the email,0.8580839601253918
+Tags,Lost to EINS,-0.6384924985065075
+Tags,In confusion whether part time or DLP,-1.469923864413118
+Tags,Busy,-2.1350689571384067
+Tags,switched off,1.6895153260320026
+Tags,in touch with EINS,1.024370233306714
+Tags,Already a student,-2.301355230319729
+Tags,Diploma holder (Not Eligible),-1.8024964107757624
+Tags,Graduation in progress,-1.6362101375944402
+Tags,Closed by Horizzon,-1.9687826839570848
+Tags,number not provided,1.3569427796693585
+Tags,opp hangup,1.5232290528506804
+Tags,Not doing further education,-0.3059199521438632
+Tags,invalid number,1.190656506488036
+Tags,wrong number given,1.8558015992133248
+Tags,Interested  in full time MBA,-1.303637591231796
+Tags,Still Thinking,0.3592251405814254
+Tags,Lost to Others,-0.4722062253251853
+Tags,Shall take in the next coming month,0.1929388674001032
+Tags,Lateral student,-0.8047787716878296
+Tags,Interested in Next batch,-1.137351318050474
+Tags,Recognition issue (DEC approval),-0.139633678962541
+Tags,Want to take admission but has financial problems,0.6917976869440697
+Tags,University not recognized,0.5255114137627476
